@@ -1,0 +1,3 @@
+goose-extractor
+feedparser
+elasticsearch
