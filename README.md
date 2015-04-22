@@ -9,6 +9,7 @@ date etc.
 ### Services you need to install
 
 In order for this tool to work, you will need the following products installed on you machine and runnig:
+
 1. [Elasticsearch](https://www.elastic.co/downloads/elasticsearch). (just install it using provided by them `.deb` file)
 2. [Kibana visualization tool](https://www.elastic.co/downloads/kibana). (also can be installed on the website of Elasticsearch)
 3. [Kopf plugin](https://github.com/lmenezes/elasticsearch-kopf) for Elasticsearch.
